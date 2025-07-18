@@ -1,6 +1,8 @@
-# Retro Game Portfolio
+# Portfolio
 
 This repository hosts code for my personal portfolio.
+
+Repository is currently a WIP.
 
 ---
 
